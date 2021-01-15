@@ -1,7 +1,7 @@
 /*  
     Advanced Algorithms I - Backtracking - A* Algorithm
 
-    Playing with wheels: https://
+    Playing with wheels: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=37&page=show_problem&problem=1008
 */
 
 #include <iostream>
