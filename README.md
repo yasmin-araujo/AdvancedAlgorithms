@@ -15,3 +15,6 @@ Exercises for Advanced Algorithms, 2020, ICMC-USP, São Carlos, Brazil
 ### Backtracking - A* Algorithm
 - [Playing with wheels](wheels.cpp)
 - [Eight Puzzle](eight.cpp)
+
+### Divide and Conquer
+- [Counting number of inversions](inversions.cpp)
