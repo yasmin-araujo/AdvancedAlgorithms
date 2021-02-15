@@ -19,3 +19,4 @@ Exercises for Advanced Algorithms, 2020, ICMC-USP, São Carlos, Brazil
 ### Divide and Conquer
 - [Counting number of inversions](inversions.cpp)
 - [Solve It](solveIt.cpp)
+- [The Playboy Chimp](playboyChimp.cpp)
