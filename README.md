@@ -20,3 +20,6 @@ Exercises for Advanced Algorithms, 2020, ICMC-USP, São Carlos, Brazil
 - [Counting number of inversions](inversions.cpp)
 - [Solve It](solveIt.cpp)
 - [The Playboy Chimp](playboyChimp.cpp)
+
+### Dynamic Programing
+- [Coins Change](coinsPD.cpp)
