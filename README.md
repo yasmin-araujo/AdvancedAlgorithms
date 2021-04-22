@@ -23,3 +23,4 @@ Exercises for Advanced Algorithms, 2020, ICMC-USP, São Carlos, Brazil
 
 ### Dynamic Programing
 - [Coins Change](coinsPD.cpp)
+- [Luggage](luggage.cpp)
